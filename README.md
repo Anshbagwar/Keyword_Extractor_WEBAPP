@@ -40,7 +40,7 @@ bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/yourusername/keyword-webapp.git
+git clone https://github.com/Anshbagwar/keyword-webapp.git
 cd keyword-webapp
 
 # Install dependencies
