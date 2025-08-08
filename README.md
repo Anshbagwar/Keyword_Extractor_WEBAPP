@@ -40,7 +40,7 @@ bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/Anshbagwar/keyword-webapp.git
+git clone https://github.com/Anshbagwar/Keyword_Extractor_WEBAPP.git
 cd keyword-webapp
 
 # Install dependencies
